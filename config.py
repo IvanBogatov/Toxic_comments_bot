@@ -1,0 +1,1 @@
+LOGFILE_PATH = 'log.txt'
