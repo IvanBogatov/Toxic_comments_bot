@@ -7,4 +7,7 @@
 - зарегестрируй нового бота в @BotFather и запиши свой TOKEN в `dockerfile`
 - запусти контейнер: `sudo docker-compose up --build`
 
+Папка *preparation* содержит исходные и очищенные данные с `.ipynb` файлами обработки и построения модели
+
+
 #NLP #aiogram #docker
